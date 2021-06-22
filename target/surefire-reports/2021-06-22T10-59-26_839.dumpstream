@@ -1,0 +1,4 @@
+# Created at 2021-06-22T10:59:28.626
+Boot Manifest-JAR contains absolute paths in classpath 'F:\psProject\practice repo psi batch9\sample-maven-project\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
